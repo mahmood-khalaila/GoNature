@@ -4,6 +4,13 @@ GoNature is a Java desktop application for booking nature park visits and managi
 
 Developed as an academic team project by **Group 11**. This directory contains the full Assignment 3 application, including client and server source code, packaged JARs, a database script, and design documentation.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/4d48c2a1-b9fe-44b2-95a4-40efe7a97f06
+
+
+
 ## Features
 
 - **Visit reservations:** browse parks, check availability, create bookings, confirm reservations, and cancel orders.
